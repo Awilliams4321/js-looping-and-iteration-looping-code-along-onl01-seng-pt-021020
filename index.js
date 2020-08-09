@@ -12,7 +12,7 @@ function writeCards(names, event) {
 }
 
 function countDown(num) {
-    for (let countup = 0; countup < 11; countup++) {
+    for (let countup = 0; countup < 13; countup++) {
         console.log(countup);
       }
 }
